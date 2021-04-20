@@ -1,0 +1,30 @@
+{
+  "name": "platzivideo",
+  "version": "1.0.0",
+  "description": "Curso práctico de React con PlatziVideo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepzarate/platiVideo-react.git"
+  },
+  "keywords": [],
+  "author": "Pepe Zarate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pepzarate/platiVideo-react/issues"
+  },
+  "homepage": "https://github.com/pepzarate/platiVideo-react#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2"
+  }
+}
