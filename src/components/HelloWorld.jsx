@@ -1,7 +1,9 @@
 import { React } from "react";
 
+import '../assets/styles/App.scss'
+
 const HelloWorld = () => {
-    return <div>Hello World!</div>
+    return <h1>Hello World!</h1>
 }
 
 export default HelloWorld
